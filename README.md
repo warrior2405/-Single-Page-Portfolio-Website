@@ -3,7 +3,7 @@
 A modern and responsive single-page portfolio website built with HTML, CSS, and JavaScript.
 
 ## 🌐 Live Demo  
-🔗 [View Website]([https://your-username.github.io/repository-name/](https://warrior2405.github.io/Single-Page-Portfolio-Website/])
+🔗 [View Website]([https://warrior2405.github.io/Single-Page-Portfolio-Website/])
 
 ## Features  
 - Responsive design 📱💻  
