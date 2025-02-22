@@ -1,2 +1,15 @@
-# Single-Page-Portfolio-Website
-A modern and responsive single-page portfolio website built with HTML, CSS, and JavaScript. Features smooth scrolling, animations, and a clean UI. Optimized for all devices and easy to customize. Ideal for showcasing personal or professional projects.
+# Single Page Portfolio Website
+
+A modern and responsive single-page portfolio website built with HTML, CSS, and JavaScript.
+
+## 🌐 Live Demo  
+🔗 [View Website]([https://your-username.github.io/repository-name/](https://warrior2405.github.io/Single-Page-Portfolio-Website/))  
+
+## Features  
+- Responsive design 📱💻  
+- Smooth scrolling & animations 🎨  
+- Optimized for fast loading ⚡  
+- Easy to customize 🔧  
+
+---
+Feel free to fork and customize! 🚀
